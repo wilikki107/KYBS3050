@@ -1,0 +1,2 @@
+# KYBS3050
+KYBS3050 Koneoppimismenetelmiä kyberturvallisuuteen kurssin harjoitustyö
